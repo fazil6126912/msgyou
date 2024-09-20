@@ -1,8 +1,8 @@
 
-# Full Stack Whatsapp Clone using Next.js, Socket.io, Node.js
+# Full Stack Messaging Service using Next.js, Socket.io, Node.js
 
 
-This is the complete Source Code for the Whatsapp Clone built using Next.js, Socket.io, Node.js, Firebase, Tailwind CSS, Prisma, PostgresSQL, and many more awesome technologies with Voice Call and Video Call Functionality.
+This is the complete Source Code for the Messaging Service built using Next.js, Socket.io, Node.js, Firebase, Tailwind CSS, Prisma, PostgresSQL, and many more awesome technologies with Voice Call and Video Call Functionality.
 
 
 
@@ -41,21 +41,3 @@ Now for the Video Call and Voice Call I have used Zegocloud's Voice Call and Vid
 Head over to https://www.zegocloud.com and create a new project and get the App Id and App Secret.
 
 Now after this add the environment variables in the `next.config.js` file.
-
-```javascript
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  env: {
-    NEXT_PUBLIC_ZEGO_APP_ID: <ZEGOCLOUD_APP_ID>,
-    NEXT_PUBLIC_ZEGO_SERVER_ID: "<ZEGOCLOUD_SERVER_ID>",
-  },
-  reactStrictMode: false,
-  images: {
-    domains: ["localhost"],
-  },
-};
-
-module.exports = nextConfig;
-
-```
-
