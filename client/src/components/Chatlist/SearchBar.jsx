@@ -15,8 +15,8 @@ export default function SearchBar() {
         <div className="">
           <input
             type="text"
-            placeholder="Search or start new chat"
-            className="bg-gray text-sm focus:outline-none w-full"
+            placeholder="  Search or start new chat"
+            className="text-sm focus:outline-none border w-[350px] h-[30px] rounded-xl"
             value={contactSearch}
             onChange={(e) =>
               dispatch({
@@ -28,7 +28,7 @@ export default function SearchBar() {
         </div>
       </div>
       <div className="pr-5 pl-3">
-        <BiFilter className="cursor-pointer text-xl " />
+        <BiFilter className="cursor-pointer text-xl" />
       </div>
     </div>
   );
