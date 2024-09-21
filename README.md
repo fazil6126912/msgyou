@@ -1,9 +1,11 @@
 
 # Full Stack Messaging Service using Next.js, Socket.io, Node.js
 
-Name - Cheruvu Mohammad Fazil
-University - Indian Institute of Technology Jodhpur
-Department - Artificial Intelligence and Data Science
+Name - Cheruvu Mohammad Fazil.
+
+University - Indian Institute of Technology Jodhpur.
+
+Department - Artificial Intelligence and Data Science.
 
 This is the complete Source Code for the Messaging Service built using Next.js, Socket.io, Node.js, Firebase, Tailwind CSS, Prisma, PostgresSQL, and many more awesome technologies with Voice Call and Video Call Functionality.
 
