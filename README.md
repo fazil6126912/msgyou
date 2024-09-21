@@ -24,7 +24,7 @@ Setup Server
   npx prisma init
   npx prisma generate
 ```
-You can find the project report [here](./report.pdf).
+You can find the project report [here](./Report.pdf).
 
 Now add environment variables in the server's .env file
 
