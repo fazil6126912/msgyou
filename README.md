@@ -14,6 +14,7 @@ Setup Client
 ```bash
   cd client
   yarn
+  npm run dev
 ```
 
 Setup Server
@@ -23,6 +24,7 @@ Setup Server
   yarn
   npx prisma init
   npx prisma generate
+  yarn start
 ```
 You can find the project report [here](./Report.pdf).
 
