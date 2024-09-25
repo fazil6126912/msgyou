@@ -9,7 +9,7 @@ Department - Artificial Intelligence and Data Science.
 
 This is the complete Source Code for the Messaging Service built using Next.js, Socket.io, Node.js, Firebase, Tailwind CSS, Prisma, PostgresSQL, and many more awesome technologies with Voice Call and Video Call Functionality.
 
-### Watch **Demo of this project** [here](https://screenrec.com/share/7Qq8oy5eVE).
+### [![Watch the video](https://img.youtube.com/vi/_ftRCUHTGnA/maxresdefault.jpg)](https://youtu.be/_ftRCUHTGnA)
 
 ## Installation
 
